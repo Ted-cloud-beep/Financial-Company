@@ -1,6 +1,6 @@
 //initialize and add the maps
 function initMap(){
-  const loc = { lat:42.361145,lng:-71.057083};
+  const loc = { lat:40.740100,lng:-73.871540};
   const map =new google.maps.Map(document.querySelector('.map')
   ,{
     zoom: 14,
